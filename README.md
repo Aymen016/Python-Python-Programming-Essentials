@@ -75,4 +75,4 @@ This repository is designed to help you gain a solid foundation in Python progra
 Feel free to fork the repository, make improvements, and contribute to the learning community! 🤝
 
 ## 📥 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Aymen016/Python-Python-Programming-Essentials/blob/master/LICENSE) file for details. 📜
