@@ -1,5 +1,8 @@
 # 🐍 **Python Programming Essentials**
 
+![Untitled design (2)](https://github.com/user-attachments/assets/247f6e12-e7b5-48ef-97c1-591f680d42cf)
+
+
 ## 🌟 **About**
 Welcome to the **Python Programming Essentials** repository! 🚀 This collection of Jupyter Notebooks covers the fundamentals of Python programming. It includes practical lessons on core topics such as lists, strings, functions, iteration, dictionaries, and tuples, ideal for beginners. Whether you’re just starting out or looking to brush up on key concepts, this repository will help you strengthen your Python programming skills. 💻📚
 
